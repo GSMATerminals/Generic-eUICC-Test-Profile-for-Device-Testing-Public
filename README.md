@@ -8,4 +8,4 @@ available, and configurable, for industry standardised testing.
 
 This document and file are provided by the GSMA for information and third party internal use only.
 The GSMA cannot be held accountable for the use of the document or file.
-It is provide “as is” without any warranty or liability attached.
+It is provided “as is” without any warranty or liability attached.
