@@ -10,7 +10,9 @@ This document and file are provided by the GSMA for information and third party 
 The GSMA cannot be held accountable for the use of the document or file.
 It is provided “as is” without any warranty or liability attached.
 
+
 GSMA TS48 eSIM GTP V1.0 Release info:
+
 Both the asn.1 Profiles are compliant with the SIMalliance Interoperable Profile v2.1 and both of them are implementing the content of the excel file that is part of TS.48.
 The reason to have two asn.1 files is related to a different interpretation of the SIMalliance Interoperable Profile specification concerning the handling of a PIN PE.
 Compare to GSMA_TS48_eSIM_GTP_Profile_Package_v1A, GSMA_TS48_eSIM_GTP_Profile_Package_v1B adds the selection of DF Telecom for PIN creation.
