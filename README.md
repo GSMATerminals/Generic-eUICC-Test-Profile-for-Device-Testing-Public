@@ -19,3 +19,10 @@ Compare to GSMA_TS48_eSIM_GTP_Profile_Package_v1A, GSMA_TS48_eSIM_GTP_Profile_Pa
 Both of them are a valid representation of the excel file and any EUM may choose one or the other to be used on its eUICC products.
 Future version of this specification will solve this Profiles duality with the reference of SIMalliance Interoperable Profile v2.2 in which all identified different interpretations have been solved.
 
+GSMA TS48 eSIM GTP V2.0 Release info:
+
+GSMA TSG is pleased to announce the publication of V2.0 of the TS.48 ‘Generic eUICC Test Profile for Device Testing’ which defines an eSIM test profile for use in testing product with System Simulators, typically for use when testing a device with a non-removable eSIM to ensure  compliance to 3GPP specifications..
+
+TS.48 V2.0 now includes the required profile content to allow running of 5G SA test cases and also V2X test cases, for both SIM Alliance v2.1 and 2.3 speciation’s.
+
+Please note: Four reference  ASN.1 Files are available with and without the V2X capability, for both SIM Alliance 2.1 and 2.3
