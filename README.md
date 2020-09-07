@@ -26,3 +26,13 @@ GSMA TSG is pleased to announce the publication of V2.0 of the TS.48 ‘Generic 
 TS.48 V2.0 now includes the required profile content to allow running of 5G SA test cases and also V2X test cases, for both SIM Alliance v2.1 and 2.3 speciation’s.
 
 Please note: Four reference  ASN.1 Files are available with and without the V2X capability, for both SIM Alliance 2.1 and 2.3
+
+TS.48 V3.0 takes account of feedback that we received, and ensures this specification is now compliant to 3GPP TS 31.102 Release 15 v15.9.0, specifically noting the EF-NSI is not compatible with this release.
+
+There are 4 Test Profile files within the zip pack:
+SAIP 2.3 with BER-TLV
+SAIP 2.3 without BER-TLV
+SAIP 2.1 with BER-TLV
+SAIP 2.1 without BER-TLV
+(SAIP = SIMAlliance Interoperable Profile)
+
