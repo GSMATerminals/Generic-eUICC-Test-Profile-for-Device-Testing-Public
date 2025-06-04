@@ -11,7 +11,7 @@ The GSMA cannot be held accountable for the use of the document or file.
 It is provided “as is” without any warranty or liability attached.
 
 
-GSMA TS48 eSIM GTP V1.0 Release info:
+GSMA TS48 eSIM GTP V1.0 Release info: This version has been deprecated
 
 Both the asn.1 Profiles are compliant with the SIMalliance Interoperable Profile v2.1 and both of them are implementing the content of the excel file that is part of TS.48.
 The reason to have two asn.1 files is related to a different interpretation of the SIMalliance Interoperable Profile specification concerning the handling of a PIN PE.
@@ -19,7 +19,7 @@ Compare to GSMA_TS48_eSIM_GTP_Profile_Package_v1A, GSMA_TS48_eSIM_GTP_Profile_Pa
 Both of them are a valid representation of the excel file and any EUM may choose one or the other to be used on its eUICC products.
 Future version of this specification will solve this Profiles duality with the reference of SIMalliance Interoperable Profile v2.2 in which all identified different interpretations have been solved.
 
-GSMA TS48 eSIM GTP V2.0 Release info:
+GSMA TS48 eSIM GTP V2.0 Release info: This version has been deprecated
 
 GSMA TSG is pleased to announce the publication of V2.0 of the TS.48 ‘Generic eUICC Test Profile for Device Testing’ which defines an eSIM test profile for use in testing product with System Simulators, typically for use when testing a device with a non-removable eSIM to ensure  compliance to 3GPP specifications..
 
@@ -27,12 +27,6 @@ TS.48 V2.0 now includes the required profile content to allow running of 5G SA t
 
 Please note: Four reference  ASN.1 Files are available with and without the V2X capability, for both SIM Alliance 2.1 and 2.3
 
-TS.48 V3.0 takes account of feedback that we received, and ensures this specification is now compliant to 3GPP TS 31.102 Release 15 v15.9.0, specifically noting the EF-NSI is not compatible with this release.
+TS.48 V3.0 takes account of feedback that we received, and ensures this specification is now compliant to 3GPP TS 31.102 Release 15 v15.9.0, specifically noting the EF-NSI is not compatible with this release. This version has been deprecated
 
-There are 4 Test Profile files within the zip pack:
-SAIP 2.3 with BER-TLV
-SAIP 2.3 without BER-TLV
-SAIP 2.1 with BER-TLV
-SAIP 2.1 without BER-TLV
-(SAIP = SIMAlliance Interoperable Profile)
 
