@@ -29,4 +29,5 @@ Please note: Four reference  ASN.1 Files are available with and without the V2X 
 
 TS.48 V3.0 takes account of feedback that we received, and ensures this specification is now compliant to 3GPP TS 31.102 Release 15 v15.9.0, specifically noting the EF-NSI is not compatible with this release. This version has been deprecated
 
-TS.48 V7 will be uplaoded in July 2025
+TS.48 v1 to v6 have been depricated.
+Please ONLY use verion TS.48 v7.0
