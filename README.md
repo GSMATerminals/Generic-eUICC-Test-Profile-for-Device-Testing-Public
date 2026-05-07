@@ -31,3 +31,7 @@ TS.48 V3.0 takes account of feedback that we received, and ensures this specific
 
 TS.48 v1 to v6 have been deprecated.
 Please ONLY use verion TS.48 v7.0
+
+Note TS.48 v7.1 is an editorial change to Annex F of the test specification.
+
+The eSIM GTP Profile Structure and the eSIM_GTP_SAIP2.3 remain a v7.0
